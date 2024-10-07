@@ -1,5 +1,4 @@
-# AI-ML_interview_questions
-AI/ML 100 most common interview questions
+# AI/ML 100 most common interview questions
 
 ### 1. How does a decision tree algorithm work?
 A decision tree algorithm is a supervised learning model that uses a tree-like structure to make decisions based on the input features. It recursively splits the data into subsets based on feature values, selecting splits that result in the most significant information gain or the greatest reduction in impurity (e.g., Gini impurity or entropy). Each internal node represents a feature, each branch represents a decision rule, and each leaf node represents an outcome or class label. This process continues until the tree reaches a predefined depth or when the data cannot be split any further, resulting in a model that can make predictions on new data by traversing the tree from the root to a leaf.
